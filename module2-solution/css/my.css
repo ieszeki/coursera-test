@@ -5,6 +5,7 @@ color: green;
 /********** Base styles **********/
 * {
   box-sizing: border-box;
+  padding: 15px;
 }
 h1 {
   margin-bottom: 15px;
