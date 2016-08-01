@@ -68,29 +68,29 @@ color: black;
 padding: 3px;
 border-color: black;
 border: 10px;
-width: 60px;
+width: 80px;
 float: right;
 text-align: center;
 }
 
 Beef {
-background: yellow;
+background: gray;
 color: black;
 padding: 3px;
 border-color: black;
 border: 10px;
-width: 60px;
+width: 80px;
 float: right;
 text-align: center;
 }
 
 Chicken {
-background: yellow;
+background: light-green;
 color: black;
 padding: 3px;
 border-color: black;
 border: 10px;
-width: 60px;
+width: 80px;
 float: right;
 text-align: center;
 }
