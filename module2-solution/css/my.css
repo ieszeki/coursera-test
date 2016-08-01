@@ -66,9 +66,9 @@ cim {
 background: yellow;
 color: black;
 padding: 3px;
-border-color: black
-border: 5px;
-width: 50px;
+border-color: black;
+border: 10px;
+width: 60px;
 float: right;
 margin: 5px;
 }
