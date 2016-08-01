@@ -72,3 +72,25 @@ width: 60px;
 float: right;
 text-align: center;
 }
+
+Beef {
+background: yellow;
+color: black;
+padding: 3px;
+border-color: black;
+border: 10px;
+width: 60px;
+float: right;
+text-align: center;
+}
+
+Chicken {
+background: yellow;
+color: black;
+padding: 3px;
+border-color: black;
+border: 10px;
+width: 60px;
+float: right;
+text-align: center;
+}
