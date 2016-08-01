@@ -69,5 +69,5 @@ padding: 3px;
 border-color: black
 border: 5px;
 width: 40px;
-box-sizing: border-box;
+float: right;
 }
