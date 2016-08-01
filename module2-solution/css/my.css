@@ -35,18 +35,18 @@ section p {
 }
 
 #chicken h2 {
-    background-color: #d59898;
-    color: #161616;
+    background-color: white;
+    color: black;
 }
 
 #beef h2 {
-    background-color: #c14543;
-    color: #e8e8e8;
+    background-color: green;
+    color: black;
 }
 
 #sushi h2 {
-    background-color: #e5d198;
-    color: #161616;
+    background-color: yellow;
+    color: black;
 }
 
 
