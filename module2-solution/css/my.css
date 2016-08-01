@@ -34,17 +34,17 @@ section p {
     padding: 0 6px 4px 6px;
 }
 
-#chicken h2 {
+.chicken h2 {
     background-color: white;
     color: black;
 }
 
-#beef h2 {
+.beef h2 {
     background-color: green;
     color: black;
 }
 
-#sushi h2 {
+.sushi h2 {
     background-color: yellow;
     color: black;
 }
@@ -58,7 +58,7 @@ section p {
         width: 30%;
     }
 
-    #chicken {
+    .chicken {
         margin-left: 2.5%;
     }
 }
@@ -69,17 +69,17 @@ section p {
         margin-right: 2.5%;
         width: 46.25%;
     }
-    #chicken {
+    .chicken {
         margin-left: 2.5%;
     }
 
-    #sushi {
+    .sushi {
         clear: left;
         margin-left: 2.5%;
         width: 95%;
     }
 
-    #sushi h2 {
+    .sushi h2 {
         margin: 0 0 0 80%;
         width: 20%;
     }
