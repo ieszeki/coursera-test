@@ -9,6 +9,7 @@ color: green;
 h1 {
   margin-bottom: 15px;
   color: green;
+  align-content: center;
 }
 
 p {
