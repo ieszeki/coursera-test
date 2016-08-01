@@ -66,5 +66,7 @@ background: yellow;
 color: black;
 padding: 3px;
 border-color: black
+border: 1px;
+align-self: right;
 
 }
